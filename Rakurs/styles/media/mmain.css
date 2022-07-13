@@ -1,0 +1,87 @@
+@media only screen and (max-width:1488px) {
+	.serv-card {
+		margin-top: 20px;
+	}
+
+	.examp-container {
+		height: 900px;
+	}
+
+	.examp-phot div {
+		margin-top: 10px;
+	}
+}
+
+@media only screen and (max-width:1354px) {
+	.fir-row {
+		font-size: 58px;
+	}
+
+	.sec-row {
+		font-size: 46px;
+	}
+}
+
+@media only screen and (max-width:1155px) {
+	.examp-container {
+		height: 1200px;
+	}
+}
+
+@media only screen and (max-width:1124px) {
+	.fir-row {
+		font-size: 46px;
+	}
+
+	.sec-row {
+		font-size: 32px;
+	}
+}
+
+@media only screen and (max-width:926px) {
+	.fir-row {
+		font-size: 32px;
+	}
+
+	.sec-row {
+		font-size: 28px;
+	}
+}
+
+@media only screen and (max-width:864px) {
+	.examp-container {
+		height: 1400px;
+	}
+}
+
+@media only screen and (max-width:690px) {
+	.fir-row {
+		font-size: 28px;
+		letter-spacing: 0;
+	}
+
+	.sec-row {
+		font-size: 16px;
+	}
+}
+
+
+@media only screen and (max-width:578px) {
+	.examp-container {
+		height: 2600px;
+	}
+}
+
+@media only screen and (max-width:468px) {
+	.fir-row {
+		font-size: 19px;
+	}
+
+	.sec-row {
+		font-size: 15px;
+	}
+
+	.text {
+		font-size: 17px;
+	}
+}

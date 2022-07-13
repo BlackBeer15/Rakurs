@@ -1,0 +1,72 @@
+footer {
+	position: relative;
+	z-index: 5;
+	width: 100%;
+	height: 350px;
+	background-color: rgba(1, 94, 234, 0.8);
+	display: flex;
+	align-items: center;
+}
+
+.info {
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	padding-left: 100px;
+}
+
+.contact {
+	margin-top: 50px;
+	font-size: 35px;
+	font-weight: 700;
+	border-bottom: 2px solid #fff;
+	border-right: 10px solid transparent;
+	width: 300px;
+	margin-bottom: 0;
+}
+
+.phone {
+	font-size: 30px;
+	font-weight: 300;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+.email {
+	font-size: 26px;
+	font-weight: 300;
+	margin-top: 10px;
+	margin-bottom: 0;
+}
+
+.addres {
+	margin-top: 10px;
+	font-size: 26px;
+	font-weight: 300;
+}
+
+.social {
+	font-size: 35px;
+	display: flex;
+	width: 200px;
+	margin-top: 10px;
+	justify-content: space-around;
+}
+
+.social a {
+	color: #fff;
+}
+
+.for-map {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.for-map iframe {
+	width: 600px;
+	height: 325px;
+	border: 2px solid #fff;
+}

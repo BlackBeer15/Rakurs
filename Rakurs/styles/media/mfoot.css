@@ -1,0 +1,15 @@
+@media only screen and (max-width:1024px) {
+	footer {
+		flex-wrap: wrap;
+	}
+
+	.for-map {
+		background-color: rgba(1, 94, 234, 0.8);
+	}
+}
+
+@media only screen and (max-width:420px) {
+	.info {
+		padding-left: 0;
+	}
+}
